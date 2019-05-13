@@ -1,6 +1,6 @@
 # U.S. Treasury Yield Spread
 <br>
-This repo contains the U.S. Treasury Yield Spread project as part of my data science portfolio. The objective of this project is to visualize the US Treasury Yield Spread chart using data downloaded from the US Department of The Treasury website.
+This repo contains the U.S. Treasury Yield Spread project as part of my data science portfolio. The objective of this project is to visualize the U.S. Treasury Yield Spread chart using data downloaded from the U.S. Department of The Treasury website.
 
 1. [Problem Statement](#ps)
 2. [Dataset](#data)
